@@ -57,10 +57,7 @@ This project implements algorithms to solve the **Smart City / Smart Campus Sche
 - **Java 17** or above
 - **Maven** for dependency management
 
-### 4.2 How to Run:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ayana24047/smart-city-scc.git
+
 
 
 
